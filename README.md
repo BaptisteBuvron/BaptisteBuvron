@@ -1,6 +1,9 @@
 ### Hi there 👋
 [![Les Stats GitHub de Baptiste Buvron](https://github-readme-stats.vercel.app/api?username=BaptisteBuvron&show_icons=true&theme=radical)](https://github.com/BaptisteBuvron/BaptisteBuvron)
-
+- 🔭 I’m currently working on www.seeiss.com
+- 🌱 I’m currently learning Symfony
+- 💬 Ask me about DUT Informatique
+- 📫 How to reach me: On twitter @baptiste_buvron.
 <!--
 **BaptisteBuvron/BaptisteBuvron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
