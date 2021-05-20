@@ -1,5 +1,9 @@
 ### Hi there 👋
-[![Les Stats GitHub de Baptiste Buvron](https://github-readme-stats.vercel.app/api?username=BaptisteBuvron&show_icons=true&theme=radical)](https://github.com/BaptisteBuvron/BaptisteBuvron)
+[![Les Stats GitHub de Baptiste Buvron](https://github-readme-stats.vercel.app/api?username=BaptisteBuvron&show_icons=true&theme=radical&count_private=true)](https://github.com/BaptisteBuvron/BaptisteBuvron)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteBuvron&layout=compact)](https://github.com/BaptisteBuvron/BaptisteBuvron)
+
+
 - 🔭 I’m currently working on www.seeiss.com
 - 🌱 I’m currently learning Symfony
 - 💬 Ask me about DUT Informatique
